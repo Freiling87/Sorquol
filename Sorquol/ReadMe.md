@@ -1,6 +1,6 @@
 ﻿<p align="center">
 
-  <img width="175" src="images/Sorquol_512x512.png" alt="Material Bread logo" align="left">
+  <img width="175" src="images/Sorquol_512x512.png" alt="Sorquol" align="left">
 
 </p>
 
