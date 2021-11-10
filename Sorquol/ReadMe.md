@@ -54,8 +54,13 @@ How does Sorquol work, Trusty?
 |:---|:---|
 
 <h3><br>
-Who brought us this wonderful bounty?
+Who brought us the wonderful bounty of Sorquol?
 </h3>
 
 |👨‍⚕️|I'm a doctor, I don't know. Can I go now?
 |:---|:---|
+
+- **Myself:** Most code, some images, documentation
+- **DapperGentleman#5990:** Sprite art, glorious sprite art
+- **Abbysssal#2020 & BlazingTwist#4559:** *Lots* of code help, and sometimes the code itself
+- **SOR Discord Community:** Ideas, feedback, and amazing custom content
