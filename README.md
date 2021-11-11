@@ -32,11 +32,13 @@ But what is Sorquol, Trusty?
 *Sorquol's effects include:*
 <img width="128" src="Sorquol/Images/Hotkey_64x64.png" align="right">
 - *The comforting warmth of Hotkeys...*
+  - *for your [Chunk Editor!](Sorquol/Documentation/Hotkeys_Chunk.md)*
+  - *for your [Level Editor!](Sorquol/Documentation/Hotkeys_Level.md)*
+<!---  
   - *for your [Campaign Editor!](Sorquol/Documentation/Hotkeys_Campaign.md)*
   - *for your [Character Editor!](Sorquol/Documentation/Hotkeys_Character.md)*
-  - *for your [Chunk Editor!](Sorquol/Documentation/Hotkeys_Chunk.md)*
-  - *for your [Chunk Pack Editor!](Sorquol/Documentation/Hotkeys_ChunkPack.md)*
-  - *for your [Level Editor!](Sorquol/Documentation/Hotkeys_Level.md)*
+  - *for your [Chunk Pack Editor!](Sorquol/Documentation/Hotkeys_ChunkPack.md)* 
+--->
 - *[Very possibly not Liver Toxicity!](https://www.mayoclinic.org/diseases-conditions/toxic-hepatitis/symptoms-causes/syc-20352202)*
 - *Possibly even more fabulous features, [possibly](Sorquol/Documentation/PlannedFeatures.md)!*
 
