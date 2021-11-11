@@ -1,3 +1,5 @@
+<img width="128" src="https://github.com/Freiling87/Sorquol/blob/master/Sorquol/Images/Hotkey_64x64.png" align="right">
+
 # Chunk Editor Hotkeys
 
 <br><p align="center">
