@@ -1,7 +1,5 @@
 ﻿<p align="center">
-
-  <img width="175" src="images/Sorquol_512x512.png" alt="Sorquol" align="left">
-
+<img width="175" src="Images/Sorquol_512x512.png" alt="Sorquol" align="left">
 </p>
 
 <h1 align="center">
@@ -20,8 +18,9 @@ The mod that your fingers CRAVE!
 - *Gout?*
 - *Feeling like you just can't squeeze that chunk out?*
 
-|👨‍⚕️|Sorquol can help! Hi, I'm Dr. Trustworthy Francis Fella, MD, and I'm here to teach you about the benefits of Sorquol! You can call me Trusty. And you can trust me. Trust me.
+|<img width="100" src="Images/Trusty_32x32.png">|Sorquol can help!<br><br>Hi, I'm DR* Trustworthy Francis Fella, MD**, and I'm here to teach you about the benefits of Sorquol! You can call me Trusty. And you can trust me. *Trust me!*
 |:---|:---|
+||<sub>* Director of Retail (Sales)<br>* Marketing Director</sub>
 
 <h3><br>
 What's Sorquol?
@@ -47,10 +46,10 @@ I'm ready! How do I drink Sorquol?
 - Gather Dependencies [Add to Release files]
 
 <h3><br>
-How does Sorquol work, Trusty?
+How does Sorquol work, Doctor?
 </h3>
 
-|👨‍⚕️|It's none of your fuckin' business how it works! Respect my Doctorarial Privilege!
+|👨‍⚕️|It's none of your fuckin' business how it works! And please, never ever call me "Doctor." I'm not exactly *not* a doctor, but there may be a federal injunction against explicitly saying I am. Damn regulatory red tape!
 |:---|:---|
 
 <h3><br>
