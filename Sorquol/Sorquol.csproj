@@ -72,6 +72,7 @@
     <Folder Include="Patches\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\Billy_32x32.png" />
     <Content Include="Images\Bune_16x16.png" />
     <Content Include="Images\Bune_Original.png" />
     <Content Include="Images\Hotkey_512x512.png" />

@@ -37,9 +37,9 @@ But what is Sorquol, Trusty?
 <img width="128" src="Images/Billy_32x32.png" align="right">
 <h2><br>
 I'm ready! How do I drink Sorquol?
-</h2>
+</h2><br>
 
-|<img width="128" src="Images/Trusty_32x32.png">|We doctors call it "Installation," and it's as easy as A to Z! Wait...
+|<img width="128" src="Images/Trusty_32x32.png">|We call it "Installation," and it's as easy as A to Z! Wait...
 |:---|:---|
 
 *To install:*
@@ -57,9 +57,9 @@ How does Sorquol work, Doctor?
 <img width="128" src="Images/Billy_32x32.png" align="right">
 <h2><br>
 Who brought us the wonderful bounty of Sorquol?
-</h2>
+</h2><br>
 
-|<img width="128" src="Images/Trusty_32x32.png">|I'm a doctor, I don't know. Can I go now?
+|<img width="128" src="Images/Trusty_32x32.png">|I don't know. Can I go now?
 |:---|:---|
 
 - **Myself:** Most code, some images, documentation
@@ -69,6 +69,9 @@ Who brought us the wonderful bounty of Sorquol?
 
 ------
 <sub>
-\* Director of Retail (Sales)
-\** Marketing Director
+
+* Director of Retail (Sales)
+
+** Marketing Director
+
 </sub>
