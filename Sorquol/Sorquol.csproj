@@ -58,23 +58,35 @@
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>..\Libraries\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.InputLegacyModule">
+      <HintPath>..\Libraries\UnityEngine.InputLegacyModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\Libraries\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>..\Libraries\UnityEngine.UIModule.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Content\LevelEditorUtilities.cs" />
     <Compile Include="Core.cs" />
     <None Include="Documentation\Hotkeys_Chunk.md" />
+    <Compile Include="Patches\P_LevelEditor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Documentation\Hotkeys_Level.md" />
+    <None Include="Documentation\PlannedFeatures.md" />
     <None Include="ReadMe.md" />
     <None Include="Scratchpad.md" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Patches\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="Images\Billy_32x32.png" />
     <Content Include="Images\Bune_16x16.png" />
     <Content Include="Images\Bune_Original.png" />
+    <Content Include="Images\KeyMap_Chunk.png" />
     <Content Include="Images\Hotkey_512x512.png" />
     <Content Include="Images\Hotkey_64x64.png" />
     <Content Include="Images\Sorquol_512x512.png" />
