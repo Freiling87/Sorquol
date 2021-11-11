@@ -45,14 +45,12 @@ But what is Sorquol, Trusty?
 <img width="64" src="Sorquol/Images/Billy_32x32.png" align="right">
 <h2><br>
 I'm ready! How do I drink Sorquol?
-</h2><br>
+</h2>
 
 |<img width="64" src="Sorquol/Images/Trusty_32x32.png">|We call it "Installation," and it's as easy as A to Z! Wait...
 |:---|:---|
 
-*To install:*
-- Install BepInex [Link]
-- Gather Dependencies [Add to Release files]
+*To install, follow [this](https://steamcommunity.com/sharedfiles/filedetails/?id=2271959380) handy-dandy guide!*
 
 <img width="64" src="Sorquol/Images/Billy_32x32.png" align="right">
 <h2><br>
@@ -65,7 +63,7 @@ How does Sorquol work, Doctor?
 <img width="64" src="Sorquol/Images/Billy_32x32.png" align="right">
 <h2><br>
 Who brought us the wonderful bounty of Sorquol?
-</h2><br>
+</h2>
 
 |<img width="64" src="Sorquol/Images/Trusty_32x32.png">|I don't know. Can I go now?
 |:---|:---|
