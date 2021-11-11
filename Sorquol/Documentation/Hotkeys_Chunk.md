@@ -1,8 +1,8 @@
-﻿*Chunk Editor Hotkeys*
+# Chunk Editor Hotkeys
 
-<p align="center">
-<img src="Images/KeyMap_Chunk.png" alt="Sorquol" align="center">
-</p>
+<br><p align="center">
+<img src="https://github.com/Freiling87/Sorquol/blob/master/Sorquol/Images/KeyMap_Chunk.png" align="center">
+</p><br><br>
 
 |Key 1				|Key 2				|Layer				|Mode (Draw/Select)	|Function												|
 |:------------------|:------------------|:------------------|:-----------------:|:------------------------------------------------------|
