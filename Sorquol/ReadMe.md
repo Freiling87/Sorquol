@@ -22,9 +22,9 @@ The mod that your fingers CRAVE!
 |:---|:---|
 
 <img width="128" src="Images/Billy_32x32.png" align="right">
-<h3><br>
+<h2><br>
 But what is Sorquol, Trusty?
-</h3>
+</h2>
 
 |<img width="128" src="Images/Trusty_32x32.png">|Sorquol is a mod for Streets of Rogue designed to add ease-of-use features to all of the game's custom content editors. <br><br>That's where the name comes from: *Streets of Rogue QUality Of Life*! Wow, this is pretty educational, isn't it?
 |:---|:---|
@@ -35,9 +35,9 @@ But what is Sorquol, Trusty?
 - *Possibly even more fabulous features, possibly!* [Link to Planned Features]
 
 <img width="128" src="Images/Billy_32x32.png" align="right">
-<h3><br>
+<h2><br>
 I'm ready! How do I drink Sorquol?
-</h3>
+</h2>
 
 |<img width="128" src="Images/Trusty_32x32.png">|We doctors call it "Installation," and it's as easy as A to Z! Wait...
 |:---|:---|
@@ -47,17 +47,17 @@ I'm ready! How do I drink Sorquol?
 - Gather Dependencies [Add to Release files]
 
 <img width="128" src="Images/Billy_32x32.png" align="right">
-<h3><br>
+<h2><br>
 How does Sorquol work, Doctor?
-</h3>
+</h2>
 
 |<img width="128" src="Images/Trusty_32x32.png">|It's none of your fuckin' business how it works! And please, never ever call me "Doctor." I'm not exactly *not* a doctor, but there may be a federal injunction against explicitly saying I am. Damn regulatory red tape!
 |:---|:---|
 
 <img width="128" src="Images/Billy_32x32.png" align="right">
-<h3><br>
+<h2><br>
 Who brought us the wonderful bounty of Sorquol?
-</h3>
+</h2>
 
 |<img width="128" src="Images/Trusty_32x32.png">|I'm a doctor, I don't know. Can I go now?
 |:---|:---|
