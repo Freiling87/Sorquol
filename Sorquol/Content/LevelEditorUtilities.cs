@@ -142,7 +142,7 @@ namespace Sorquol.Content
 		{
 			Core.LogMethodCall();
 
-			List<InputField> fieldList = fieldLists[levelEditor.currentLayer]; // Can't use yet: 1. Your own lists aren't filled out yet; 2. Not sure how to access the stuff that goes on those lists; 3. Need to test with vanilla stuff anyway.
+			//List<InputField> fieldList = fieldLists[levelEditor.currentLayer]; // Can't use yet: 1. Your own lists aren't filled out yet; 2. Not sure how to access the stuff that goes on those lists; 3. Need to test with vanilla stuff anyway.
 			InputField oldFocus;
 
 			try

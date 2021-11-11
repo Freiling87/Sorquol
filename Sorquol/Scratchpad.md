@@ -50,9 +50,17 @@ Complete
 #	C	Character Editor
 ###		N	Access from Chunk/Campaign Editor selector dropdown
 Next release
-##		C	Added Trait Alphabetization
-- Attempted
-  - DW
+##		C	Extend Sort button to Added traits - Name
+- ScrollingMenu.PushedButton @ 0006
+  - Pretty much has exactly what you need.
+- DW
+- Remember, there's a button that does this... just tie this into that.
+##		C	Extend Sort button to Added traits - Value
+- ScrollingMenu.PushedButton @ 0006
+  - Pretty much has exactly what you need.
+- Remember, there's a button that does this... just tie this into that.
+##		C	Change conflicts to red text on mouseover
+- If you mouseover a trait with conflicts, change text on added traits to red temporarily.
 
 #	C	Chunk Editor
 ##		CT	Hotkeys

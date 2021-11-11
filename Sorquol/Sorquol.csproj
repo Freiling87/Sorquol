@@ -70,15 +70,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Content\LevelEditorUtilities.cs" />
+    <Compile Include="Content\NameManager.cs" />
     <Compile Include="Core.cs" />
+    <None Include="Documentation\Hotkeys_Character.md" />
     <None Include="Documentation\Hotkeys_Chunk.md" />
+    <None Include="Documentation\Hotkeys_Campaign.md" />
+    <None Include="Documentation\Hotkeys_ChunkPack.md" />
+    <Compile Include="Mutators\SortActiveMutatorsByName.cs" />
     <Compile Include="Patches\P_LevelEditor.cs" />
+    <Compile Include="Patches\P_PlayerControl.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Documentation\Hotkeys_Level.md" />
     <None Include="Documentation\PlannedFeatures.md" />
-    <None Include="ReadMe.md" />
     <None Include="Scratchpad.md" />
   </ItemGroup>
   <ItemGroup />
@@ -93,4 +98,18 @@
     <Content Include="Images\Sorquol_64x64.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>set gameDirectory="C:\Program Files (x86)\Steam\steamapps\common\Streets of Rogue\BepInEx\plugins"
+if exist %25gameDirectory%25 (ECHO "Destination directory found") ELSE (ECHO "Destination directory not found")
+
+set dll="Sorquol.dll"
+set dll2="BTHarmonyUtils.dll"
+set dll3="RogueLibsCore.dll"
+if exist %25dll%25 (ECHO "Mod DLL found") ELSE (ECHO "Mod DLL not found")
+if exist %25gameDirectory%25 copy /y %25dll%25 %25gameDirectory%25
+if exist %25gameDirectory%25 copy /y %25dll2%25 %25gameDirectory%25
+if exist %25gameDirectory%25 copy /y %25dll3%25 %25gameDirectory%25
+
+if exist %25gameDirectory%25 Start "" "C:\Program Files (x86)\Steam\steamapps\common\Streets of Rogue\StreetsOfRogue.exe"</PostBuildEvent>
+  </PropertyGroup>
 </Project>
