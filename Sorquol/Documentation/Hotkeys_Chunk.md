@@ -12,7 +12,7 @@
 |F2					|					|Any				|D / S				|New file
 |F5					|					|					|D / S				|Quicksave current file (skip confirmation)
 |F9	*				|					|					|D / S				|Quickload file with matching Filename<br>Defaults to current chunk<br>If new name, opens a blank chunk
-|F11				|					|					|D / S				|Run chunk<br>Exit Run Mode *
+|F11				|					|					|D / S				|Run chunk<br>Exit Run Mode
 |[1 - 9]		    |					|					|D / S				|Switch to Layer (Wall, Floor, Floor2, etc.)
 |[1 - 9]			|Ctrl				|					|D					|Switch to Layer and open Type Selector
 |Alt *				|					|Object				|	 S				|Security Cam: Highlight visible tiles

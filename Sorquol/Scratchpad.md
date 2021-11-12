@@ -1,10 +1,11 @@
 ﻿
 #	C	Documentation
 ##		C	Keyboard Layout Diagrams 
-###			√	Chunk Editor
-http://www.keyboard-layout-editor.com/#/gists/2f3df5c48d93b5cbb24ebddca302ffd6
+###			C	Chunk Editor
+- E/Q was color-coded as single key but they need Ctrl
+- http://www.keyboard-layout-editor.com/#/gists/2f3df5c48d93b5cbb24ebddca302ffd6
 ###			C	Level Editor
-New
+New 
 
 #	C	All Editors
 ##		CT	Hotkeys
@@ -64,8 +65,6 @@ Next release
 
 #	C	Chunk Editor
 ##		CT	Hotkeys
-###			T	00 SetOrientation/SetDirection not updating in fields for Draw Mode only
-- Distributed the changes from the LeftArrow approach. Test that it was done right.
 ###			C	F9 - Quickload
 - Maybe try this through calling menus and sending a ButtonHelper as Pressed.
   - Proposed:
@@ -120,8 +119,6 @@ New
 New
 ###			H	Ctrl + Shift - Filter & Display Patrol IDs (group, not sequence) on all Points
 New
-###			H	F12 - Exit Playing Chunk
-On ice, pending user request
 ###			H	Mouse3 - Drag Viewport
 New, and hell no
 ###			H	NumKeys, NumPad + Alt - Menu Trails
@@ -172,6 +169,8 @@ Complete
 ###			√	F9 - Abort function if no matching filename to field
 This is pretty much automatic already, since it will just fail. But reactivate if you ever want to put up a warning message or some kind of UI indicator.
 ###			√	F11 - Play Chunk
+Complete
+###			√	F11 - Exit Playing Chunk
 Complete
 ###			√	NumKeys - Select Layer
 Complete

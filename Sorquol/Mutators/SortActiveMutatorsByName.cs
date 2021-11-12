@@ -12,7 +12,7 @@ namespace CCU.Mutators.Utility
 {
 	class SortActiveMutatorsByName
 	{
-		[RLSetup]
+		//[RLSetup]
 		static void Start()
 		{
 			UnlockBuilder unlockBuilder = RogueLibs.CreateCustomUnlock(new MutatorUnlock(CMutators.SortMutatorsByName, true))
