@@ -1,12 +1,10 @@
-﻿
-#	C	Documentation
+﻿#	C	Documentation
 ##		C	Keyboard Layout Diagrams 
 ###			C	Chunk Editor
 - E/Q was color-coded as single key but they need Ctrl
 - http://www.keyboard-layout-editor.com/#/gists/2f3df5c48d93b5cbb24ebddca302ffd6
 ###			C	Level Editor
 New 
-
 #	C	All Editors
 ##		CT	Hotkeys
 ###			CT	F11 - Return to Editor
@@ -47,9 +45,14 @@ Need to test this with *all* menus, because you're not guaranteed that they're a
 Complete
 ###			√	Alt + Ctrl + 1/2/3/4 - Quickswitch to Editor
 Complete
-
 #	C	Character Editor
-###		N	Access from Chunk/Campaign Editor selector dropdown
+##		C	Steam Upload Automation
+- Pop up Yes/No dialogue asking if user wants to do the following:
+  - Automate screenshot of character portrait for thumbnail
+  - Automate screenshot of character stat screen
+  - Upload both screenshots into Character folder and name appropriately before upload
+  - Output a Text file with all character content for upload as a description 
+##		N	Access from Chunk/Campaign Editor selector dropdown
 Next release
 ##		C	Extend Sort button to Added traits - Name
 - ScrollingMenu.PushedButton @ 0006
@@ -62,8 +65,12 @@ Next release
 - Remember, there's a button that does this... just tie this into that.
 ##		C	Change conflicts to red text on mouseover
 - If you mouseover a trait with conflicts, change text on added traits to red temporarily.
-
 #	C	Chunk Editor
+##		C	Field Additions
+###			C	Multiple in Chunk for SpawnerAgent
+Figure it out, my notes didn't have anything
+##		C	Red-Tint subtly invalid
+E.g., security cams over Holes, or stuff that is finicky depending on chunk orientation
 ##		CT	Hotkeys
 ###			C	F9 - Quickload
 - Maybe try this through calling menus and sending a ButtonHelper as Pressed.
@@ -184,7 +191,6 @@ I.e., show rotated sprite for any objects
 This sounds hard
 ##		H	Red-Tint Out-Of-District Objects
 I.e., Show stuff that won't show up, unless you can disable that disabling behavior
-
 #	C	Level Editor
 ##		C	Hotkeys
 ###			C	Arrow Keys - Set Chunk Direction, Draw or Select Mode
@@ -232,7 +238,6 @@ Complete
 Complete
 ###			√	F5 - Quicksave
 Complete
-
 #	N	Player Utilities
 This might need to be its own mod
 ##		H	Mouse3 Bind to command followers
