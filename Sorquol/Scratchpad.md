@@ -6,6 +6,10 @@
 ###			C	Level Editor
 New 
 #	C	All Editors
+##		C	Content Updates
+Let's say you're updating an Agent. It's placed in a chunk, and that chunk in a level. You edit the character and save it. It tests fine in the chunk. But it won't update the level. Even if you press both "Update Levels" in the chunk, and "Update Chunks" in the level, in any order. It just doesn't fucking work. 
+Automate content updating, and maybe even hide the buttons. It shouldn't be a manual process in the first place.
+##		C	Print shortcut key on all buttons
 ##		CT	Hotkeys
 ###			CT	F11 - Return to Editor
 - Tried adding a check for GC.loadCompleteReally
