@@ -23,7 +23,7 @@ The mod that your fingers CRAVE!
 
 <img width="64" src="Sorquol/Images/Billy_32x32.png" align="right">
 <h2><br>
-But what is Sorquol, Trusty?
+Ok, I trust you now. But what is Sorquol, Trusty?
 </h2>
 
 |<img width="64" src="Sorquol/Images/Trusty_32x32.png">|Sorquol is a mod for Streets of Rogue designed to add ease-of-use features to all of the game's custom content editors. <br><br>That's where the name comes from: *Streets of Rogue QUality Of Life*! Wow, this is pretty educational, isn't it?
@@ -40,7 +40,6 @@ But what is Sorquol, Trusty?
   - *for your [Chunk Pack Editor!](Sorquol/Documentation/Hotkeys_ChunkPack.md)* 
 --->
 - *[Very possibly not Liver Toxicity!](https://www.mayoclinic.org/diseases-conditions/toxic-hepatitis/symptoms-causes/syc-20352202)*
-- *Possibly even more fabulous features, [possibly](Sorquol/Documentation/PlannedFeatures.md)!*
 
 <img width="64" src="Sorquol/Images/Billy_32x32.png" align="right">
 <h2><br>
